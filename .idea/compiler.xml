@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spark-spring-boot-autoconfigure" />
+        <module name="spark-spring-boot-starter" />
+        <module name="camel-spark (1) (org.apache.camel)" />
+        <module name="camel-spark-component" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="camel-spark" target="8" />
+      <module name="camel-spark (1) (org.apache.camel)" target="8" />
+      <module name="camel-spark-component" target="8" />
+      <module name="spark-spring-boot" target="8" />
+      <module name="spark-spring-boot-autoconfigure" target="8" />
+      <module name="spark-spring-boot-starter" target="8" />
+      <module name="spark-spring-boot-utils" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

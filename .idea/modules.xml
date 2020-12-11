@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/camel-spark.iml" filepath="$PROJECT_DIR$/camel-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camel-spark-component/camel-spark (1) (org.apache.camel).iml" filepath="$PROJECT_DIR$/camel-spark-component/camel-spark (1) (org.apache.camel).iml" />
+      <module fileurl="file://$PROJECT_DIR$/camel-spark-component/camel-spark-component.iml" filepath="$PROJECT_DIR$/camel-spark-component/camel-spark-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-spring-boot/spark-spring-boot.iml" filepath="$PROJECT_DIR$/spark-spring-boot/spark-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-spring-boot/spark-spring-boot-autoconfigure/spark-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/spark-spring-boot/spark-spring-boot-autoconfigure/spark-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-spring-boot/spark-spring-boot-starter/spark-spring-boot-starter.iml" filepath="$PROJECT_DIR$/spark-spring-boot/spark-spring-boot-starter/spark-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>

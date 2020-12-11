@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.agascon.springboot</groupId>
         <artifactId>spark-spring-boot</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.1</version>
     </parent>
 
     <groupId>org.apache.camel.springboot</groupId>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: org.agascon.spark:spark-spring-boot-autoconfigure:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/agascon/spark/spark-spring-boot-autoconfigure/1.0.0-SNAPSHOT/spark-spring-boot-autoconfigure-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/spark-spring-boot/spark-spring-boot-autoconfigure/spark-spring-boot-autoconfigure-1.0.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/agascon/spark/spark-spring-boot-autoconfigure/1.0.0-SNAPSHOT/spark-spring-boot-autoconfigure-1.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/spark-spring-boot/spark-spring-boot-autoconfigure/spark-spring-boot-autoconfigure-1.0.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/agascon/spark/spark-spring-boot-autoconfigure/1.0.0-SNAPSHOT/spark-spring-boot-autoconfigure-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
